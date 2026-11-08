@@ -19,6 +19,14 @@
 
 </div>
 
+<hr/>
+
+<p align="center">
+  <img src="image/image.png" alt="preview" width="100%"/>
+</p>
+
+<hr/>
+
 ---
 
 ## Table of Contents
@@ -203,6 +211,8 @@ Vapi-Network/
 ├── proxy.txt                   # Proxy list, one per line (optional)
 ├── accounts.json               # Saved account records (auto-generated)
 ├── LICENSE                     # License file
+├── image/                     
+    └── image.png               # Preview script
 └── utils/
     └── banner.rb               # Banner using yuurisan module
 ```
